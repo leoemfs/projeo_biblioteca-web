@@ -3,7 +3,7 @@ Projeto simples de uma Biblioteca desenvolvido a fim de obter nota para a avalia
 
 # O que será avaliado: 
 Padrão REST Node.js API; 
-4 controllers que respondam via GET, POST PUT e DELETE; 
+4 controllers que respondam via GET, POST PUT e DELETE; ;
 Manter dados no banco de dados; 
 A estrutura do projeto deve estar no padrão MVC; 
 Possuir páginas web de CRUD (Create, Replace, Update e Delete); Para cada item (entidade – model) do projeto;  
